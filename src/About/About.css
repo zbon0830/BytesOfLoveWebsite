@@ -41,7 +41,7 @@
 .credit-cell img {
   width: 30vh; /* Ensure the image covers the container's width */
   object-fit: cover;
-  border-radius: 1vh;
+  border-radius: 40px;
 }
 
 .credit-name {
